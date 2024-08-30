@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 24
+**Total Problems Solved:** 25
 
 **List of Problems Solved:**
 
@@ -10,6 +10,7 @@
 - 215-kth-largest-element-in-an-array
 - 264-ugly-number-ii
 - 273-integer-to-english-words
+- 295-find-median-from-data-stream
 - 415-add-strings
 - 564-find-the-closest-palindrome
 - 592-fraction-addition-and-subtraction
