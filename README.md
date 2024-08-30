@@ -1,2 +1,32 @@
 <!-- SOLVED_PROBLEMS_START -->
+### LeetCode Solutions Summary
+
+**Total Problems Solved:** 24
+
+**List of Problems Solved:**
+
+- 40-combination-sum-ii
+- 145-binary-tree-postorder-traversal
+- 215-kth-largest-element-in-an-array
+- 264-ugly-number-ii
+- 273-integer-to-english-words
+- 415-add-strings
+- 564-find-the-closest-palindrome
+- 592-fraction-addition-and-subtraction
+- 624-maximum-distance-in-arrays
+- 650-2-keys-keyboard
+- 664-strange-printer
+- 719-find-k-th-smallest-pair-distance
+- 776-n-ary-tree-postorder-traversal
+- 890-lemonade-change
+- 984-most-stones-removed-with-same-row-or-column
+- 1240-stone-game-ii
+- 1325-path-with-maximum-probability
+- 1556-make-two-arrays-equal-by-reversing-subarrays
+- 1615-range-sum-of-sorted-subarray-sums
+- 2035-count-sub-islands
+- 2067-maximum-number-of-points-with-cost
+- 2163-kth-distinct-string-in-an-array
+- 2803-modify-graph-edge-weights
+- 3543-count-substrings-that-satisfy-k-constraint-i
 <!-- SOLVED_PROBLEMS_END -->
