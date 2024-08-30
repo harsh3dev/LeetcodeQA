@@ -1,7 +1,7 @@
 import os
 
 # Path to the directory where your solution folders are stored
-solutions_dir = ""  # e.g., "leetcode-solutions"
+solutions_dir = "/home/runner/work/LeetcodeQA/LeetcodeQA/"  # e.g., "leetcode-solutions"
 
 # Path to the README file
 readme_path = "README.md"
