@@ -1,4 +1,5 @@
 import os
+import re
 
 # Path to the directory where your solution folders are stored
 solutions_dir = "/home/runner/work/LeetcodeQA/LeetcodeQA/"  # e.g., "leetcode-solutions"
@@ -6,9 +7,13 @@ solutions_dir = "/home/runner/work/LeetcodeQA/LeetcodeQA/"  # e.g., "leetcode-so
 # Path to the README file
 readme_path = "README.md"
 
-# Get a list of all folders in the solutions directory
+# Regex pattern to match problem folders (e.g., "1325-path-with-maximum-probability")
+problem_folder_pattern = re.compile(r'^\d+-[\w-]+$')
+
+# Get a list of all folders in the solutions directory that match the problem folder pattern
 solution_folders = [
-    f for f in os.listdir(solutions_dir) if os.path.isdir(os.path.join(solutions_dir, f))
+    f for f in os.listdir(solutions_dir)
+    if os.path.isdir(os.path.join(solutions_dir, f)) and problem_folder_pattern.match(f)
 ]
 
 # Count the total number of solved problems
