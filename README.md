@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 27
+**Total Problems Solved:** 28
 
 **List of Problems Solved:**
 
@@ -26,6 +26,7 @@
 - 1325-path-with-maximum-probability
 - 1556-make-two-arrays-equal-by-reversing-subarrays
 - 1615-range-sum-of-sorted-subarray-sums
+- 2006-find-the-student-that-will-replace-the-chalk
 - 2035-count-sub-islands
 - 2067-maximum-number-of-points-with-cost
 - 2132-convert-1d-array-into-2d-array
