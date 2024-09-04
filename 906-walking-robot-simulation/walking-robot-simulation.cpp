@@ -1,56 +1,47 @@
 class Solution {
-private:
-    static const int HASH_MULTIPLIER =
-        60013;  // Slightly larger than 2 * max coordinate value
-
-    // Hash function to convert (x, y) coordinates to a unique integer value
-    int hashCoordinates(int x, int y) { return x + HASH_MULTIPLIER * y; }
-
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-        // Store obstacles in an unordered_set for efficient lookup
-        unordered_set<int> obstacleSet;
-        for (auto& obstacle : obstacles) {
-            obstacleSet.insert(hashCoordinates(obstacle[0], obstacle[1]));
+        unordered_map<string,int>mp;
+        for(auto it:obstacles){
+            string key = to_string(it[0])+"+"+to_string(it[1]);
+            mp[key]++;
         }
+        vector<vector<int>>direc = {{-1,0},{0,1},{1,0},{0,-1}}; 
+        // according to order W N E S
 
-        // Define direction vectors: North, East, South, West
-        vector<vector<int>> directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-
-        vector<int> currentPosition = {0, 0};
-        int maxDistanceSquared = 0;
-        int currentDirection = 0;  // 0: North, 1: East, 2: South, 3: West
-
-        for (int command : commands) {
-            if (command == -1) {
-                // Turn right
-                currentDirection = (currentDirection + 1) % 4;
-                continue;
+        int dir = 1; // i.e. north 
+        // 0: west, 1: north, 2: east, 3: south
+        int x=0,y=0;
+        int mxDist=0;
+        for(int it:commands){
+            if(it==-2){
+                // move left
+                if(dir==0) dir = 3;
+                else dir--;
             }
-            if (command == -2) {
-                // Turn left
-                currentDirection = (currentDirection + 3) % 4;
-                continue;
+            else if(it==-1){
+                // move right
+                dir = (dir+1)%4;
             }
-
-            // Move forward
-            vector<int> direction = directions[currentDirection];
-            for (int step = 0; step < command; step++) {
-                int nextX = currentPosition[0] + direction[0];
-                int nextY = currentPosition[1] + direction[1];
-                if (obstacleSet.contains(hashCoordinates(nextX, nextY))) {
-                    break;
+            else{
+                int k = it;
+                for(int i=1; i<=k; i++){
+                    int newX = x+direc[dir][0];
+                    int newY = y+direc[dir][1];
+                    
+                    string key = to_string(newX)+"+"+to_string(newY);
+                    if(mp.find(key)!=mp.end()){
+                        // obstacle has been found so don't go there
+                        break;
+                    }
+                    x = newX, y=newY;
+                    mxDist = max(mxDist, x*x+y*y);
                 }
-                currentPosition[0] = nextX;
-                currentPosition[1] = nextY;
             }
+        } 
 
-            maxDistanceSquared =
-                max(maxDistanceSquared,
-                    currentPosition[0] * currentPosition[0] +
-                        currentPosition[1] * currentPosition[1]);
-        }
+        return mxDist;
 
-        return maxDistanceSquared;
+
     }
 };
