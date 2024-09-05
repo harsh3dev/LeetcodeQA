@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 29
+**Total Problems Solved:** 30
 
 **List of Problems Solved:**
 
@@ -31,6 +31,7 @@
 - 2035-count-sub-islands
 - 2067-maximum-number-of-points-with-cost
 - 2132-convert-1d-array-into-2d-array
+- 2155-find-missing-observations
 - 2163-kth-distinct-string-in-an-array
 - 2803-modify-graph-edge-weights
 - 3543-count-substrings-that-satisfy-k-constraint-i
