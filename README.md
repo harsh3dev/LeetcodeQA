@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 30
+**Total Problems Solved:** 31
 
 **List of Problems Solved:**
 
@@ -34,5 +34,6 @@
 - 2155-find-missing-observations
 - 2163-kth-distinct-string-in-an-array
 - 2803-modify-graph-edge-weights
+- 3501-delete-nodes-from-linked-list-present-in-array
 - 3543-count-substrings-that-satisfy-k-constraint-i
 <!-- SOLVED_PROBLEMS_END -->
