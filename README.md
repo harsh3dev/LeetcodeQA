@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 31
+**Total Problems Solved:** 32
 
 **List of Problems Solved:**
 
@@ -25,6 +25,7 @@
 - 984-most-stones-removed-with-same-row-or-column
 - 1240-stone-game-ii
 - 1325-path-with-maximum-probability
+- 1484-linked-list-in-binary-tree
 - 1556-make-two-arrays-equal-by-reversing-subarrays
 - 1615-range-sum-of-sorted-subarray-sums
 - 2006-find-the-student-that-will-replace-the-chalk
