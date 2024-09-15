@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 36
+**Total Problems Solved:** 37
 
 **List of Problems Solved:**
 
@@ -13,6 +13,7 @@
 - 295-find-median-from-data-stream
 - 347-top-k-frequent-elements
 - 415-add-strings
+- 455-assign-cookies
 - 564-find-the-closest-palindrome
 - 592-fraction-addition-and-subtraction
 - 624-maximum-distance-in-arrays
