@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 38
+**Total Problems Solved:** 39
 
 **List of Problems Solved:**
 
@@ -37,6 +37,7 @@
 - 2155-find-missing-observations
 - 2163-kth-distinct-string-in-an-array
 - 2180-maximum-number-of-tasks-you-can-assign
+- 2248-minimum-cost-of-buying-candies-with-discount
 - 2411-spiral-matrix-iv
 - 2503-longest-subarray-with-maximum-bitwise-and
 - 2803-modify-graph-edge-weights
