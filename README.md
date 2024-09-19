@@ -1,13 +1,14 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 39
+**Total Problems Solved:** 40
 
 **List of Problems Solved:**
 
 - 40-combination-sum-ii
 - 145-binary-tree-postorder-traversal
 - 215-kth-largest-element-in-an-array
+- 241-different-ways-to-add-parentheses
 - 264-ugly-number-ii
 - 273-integer-to-english-words
 - 295-find-median-from-data-stream
