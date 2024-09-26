@@ -46,3 +46,27 @@
 - 3501-delete-nodes-from-linked-list-present-in-array
 - 3543-count-substrings-that-satisfy-k-constraint-i
 <!-- SOLVED_PROBLEMS_END -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+<!---LeetCode Topics End-->
