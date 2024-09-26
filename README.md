@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 40
+**Total Problems Solved:** 41
 
 **List of Problems Solved:**
 
@@ -22,6 +22,7 @@
 - 664-strange-printer
 - 719-find-k-th-smallest-pair-distance
 - 725-split-linked-list-in-parts
+- 0729-my-calendar-i
 - 776-n-ary-tree-postorder-traversal
 - 890-lemonade-change
 - 906-walking-robot-simulation
