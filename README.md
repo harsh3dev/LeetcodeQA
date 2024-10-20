@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 42
+**Total Problems Solved:** 43
 
 **List of Problems Solved:**
 
@@ -28,6 +28,7 @@
 - 890-lemonade-change
 - 906-walking-robot-simulation
 - 984-most-stones-removed-with-same-row-or-column
+- 1197-parsing-a-boolean-expression
 - 1240-stone-game-ii
 - 1325-path-with-maximum-probability
 - 1484-linked-list-in-binary-tree
