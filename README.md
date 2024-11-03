@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 44
+**Total Problems Solved:** 45
 
 **List of Problems Solved:**
 
@@ -25,6 +25,7 @@
 - 725-split-linked-list-in-parts
 - 0729-my-calendar-i
 - 776-n-ary-tree-postorder-traversal
+- 0812-rotate-string
 - 890-lemonade-change
 - 906-walking-robot-simulation
 - 984-most-stones-removed-with-same-row-or-column
