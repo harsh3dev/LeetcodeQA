@@ -91,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
