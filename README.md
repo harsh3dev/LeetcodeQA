@@ -1,11 +1,12 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 45
+**Total Problems Solved:** 46
 
 **List of Problems Solved:**
 
 - 40-combination-sum-ii
+- 0118-pascals-triangle
 - 145-binary-tree-postorder-traversal
 - 215-kth-largest-element-in-an-array
 - 241-different-ways-to-add-parentheses
