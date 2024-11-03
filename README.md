@@ -57,6 +57,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 ## Binary Search
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
