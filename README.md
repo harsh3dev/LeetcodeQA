@@ -1,13 +1,14 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 50
+**Total Problems Solved:** 51
 
 **List of Problems Solved:**
 
 - 40-combination-sum-ii
 - 0048-rotate-image
 - 0053-maximum-subarray
+- 0056-merge-intervals
 - 0118-pascals-triangle
 - 145-binary-tree-postorder-traversal
 - 215-kth-largest-element-in-an-array
