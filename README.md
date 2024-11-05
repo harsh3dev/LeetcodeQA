@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 48
+**Total Problems Solved:** 49
 
 **List of Problems Solved:**
 
@@ -50,6 +50,7 @@
 - 2677-cousins-in-binary-tree-ii
 - 2803-modify-graph-edge-weights
 - 2903-insert-greatest-common-divisors-in-linked-list
+- 3174-minimum-number-of-changes-to-make-binary-string-beautiful
 - 3451-string-compression-iii
 - 3501-delete-nodes-from-linked-list-present-in-array
 - 3543-count-substrings-that-satisfy-k-constraint-i
