@@ -99,6 +99,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harsh3dev/LeetcodeQA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Recursion
 |  |
 | ------- |
