@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 51
+**Total Problems Solved:** 52
 
 **List of Problems Solved:**
 
@@ -45,6 +45,7 @@
 - 2132-convert-1d-array-into-2d-array
 - 2155-find-missing-observations
 - 2163-kth-distinct-string-in-an-array
+- 2179-most-beautiful-item-for-each-query
 - 2180-maximum-number-of-tasks-you-can-assign
 - 2248-minimum-cost-of-buying-candies-with-discount
 - 2411-spiral-matrix-iv
