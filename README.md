@@ -161,4 +161,8 @@
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/harsh3dev/LeetcodeQA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
