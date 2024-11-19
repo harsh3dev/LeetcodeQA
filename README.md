@@ -71,6 +71,7 @@
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Stack
 |  |
@@ -154,4 +156,8 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
