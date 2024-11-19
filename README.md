@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 55
+**Total Problems Solved:** 56
 
 **List of Problems Solved:**
 
@@ -23,6 +23,7 @@
 - 564-find-the-closest-palindrome
 - 0584-find-customer-referee
 - 592-fraction-addition-and-subtraction
+- 0595-big-countries
 - 624-maximum-distance-in-arrays
 - 650-2-keys-keyboard
 - 664-strange-printer
