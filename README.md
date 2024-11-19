@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 52
+**Total Problems Solved:** 53
 
 **List of Problems Solved:**
 
@@ -50,6 +50,7 @@
 - 2248-minimum-cost-of-buying-candies-with-discount
 - 2411-spiral-matrix-iv
 - 2503-longest-subarray-with-maximum-bitwise-and
+- 2552-maximum-sum-of-distinct-subarrays-with-length-k
 - 2677-cousins-in-binary-tree-ii
 - 2803-modify-graph-edge-weights
 - 2903-insert-greatest-common-divisors-in-linked-list
