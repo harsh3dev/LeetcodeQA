@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 57
+**Total Problems Solved:** 58
 
 **List of Problems Solved:**
 
@@ -42,6 +42,7 @@
 - 1484-linked-list-in-binary-tree
 - 1556-make-two-arrays-equal-by-reversing-subarrays
 - 1615-range-sum-of-sorted-subarray-sums
+- 1827-invalid-tweets
 - 1908-recyclable-and-low-fat-products
 - 2006-find-the-student-that-will-replace-the-chalk
 - 2035-count-sub-islands
