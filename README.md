@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 54
+**Total Problems Solved:** 55
 
 **List of Problems Solved:**
 
@@ -21,6 +21,7 @@
 - 455-assign-cookies
 - 0496-next-greater-element-i
 - 564-find-the-closest-palindrome
+- 0584-find-customer-referee
 - 592-fraction-addition-and-subtraction
 - 624-maximum-distance-in-arrays
 - 650-2-keys-keyboard
