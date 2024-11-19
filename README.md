@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 56
+**Total Problems Solved:** 57
 
 **List of Problems Solved:**
 
@@ -37,6 +37,7 @@
 - 984-most-stones-removed-with-same-row-or-column
 - 1197-parsing-a-boolean-expression
 - 1240-stone-game-ii
+- 1258-article-views-i
 - 1325-path-with-maximum-probability
 - 1484-linked-list-in-binary-tree
 - 1556-make-two-arrays-equal-by-reversing-subarrays
