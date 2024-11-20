@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 59
+**Total Problems Solved:** 60
 
 **List of Problems Solved:**
 
@@ -40,6 +40,7 @@
 - 1258-article-views-i
 - 1325-path-with-maximum-probability
 - 1484-linked-list-in-binary-tree
+- 1509-replace-employee-id-with-the-unique-identifier
 - 1556-make-two-arrays-equal-by-reversing-subarrays
 - 1615-range-sum-of-sorted-subarray-sums
 - 1827-invalid-tweets
