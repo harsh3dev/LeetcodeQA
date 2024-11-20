@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 61
+**Total Problems Solved:** 62
 
 **List of Problems Solved:**
 
@@ -44,6 +44,7 @@
 - 1509-replace-employee-id-with-the-unique-identifier
 - 1556-make-two-arrays-equal-by-reversing-subarrays
 - 1615-range-sum-of-sorted-subarray-sums
+- 1724-customer-who-visited-but-did-not-make-any-transactions
 - 1827-invalid-tweets
 - 1908-recyclable-and-low-fat-products
 - 2006-find-the-student-that-will-replace-the-chalk
