@@ -81,6 +81,7 @@
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -184,4 +186,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harsh3dev/LeetcodeQA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/harsh3dev/LeetcodeQA/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
