@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 62
+**Total Problems Solved:** 63
 
 **List of Problems Solved:**
 
@@ -56,6 +56,7 @@
 - 2179-most-beautiful-item-for-each-query
 - 2180-maximum-number-of-tasks-you-can-assign
 - 2248-minimum-cost-of-buying-candies-with-discount
+- 2343-count-unguarded-cells-in-the-grid
 - 2411-spiral-matrix-iv
 - 2503-longest-subarray-with-maximum-bitwise-and
 - 2552-maximum-sum-of-distinct-subarrays-with-length-k
