@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 63
+**Total Problems Solved:** 64
 
 **List of Problems Solved:**
 
@@ -50,6 +50,7 @@
 - 2006-find-the-student-that-will-replace-the-chalk
 - 2035-count-sub-islands
 - 2067-maximum-number-of-points-with-cost
+- 2089-maximum-matrix-sum
 - 2132-convert-1d-array-into-2d-array
 - 2155-find-missing-observations
 - 2163-kth-distinct-string-in-an-array
