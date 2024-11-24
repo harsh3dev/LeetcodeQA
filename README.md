@@ -1,7 +1,7 @@
 <!-- SOLVED_PROBLEMS_START -->
 ### LeetCode Solutions Summary
 
-**Total Problems Solved:** 64
+**Total Problems Solved:** 65
 
 **List of Problems Solved:**
 
@@ -11,6 +11,7 @@
 - 0056-merge-intervals
 - 0118-pascals-triangle
 - 145-binary-tree-postorder-traversal
+- 0197-rising-temperature
 - 215-kth-largest-element-in-an-array
 - 241-different-ways-to-add-parentheses
 - 264-ugly-number-ii
