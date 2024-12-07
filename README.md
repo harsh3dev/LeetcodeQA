@@ -85,6 +85,7 @@
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2232-adding-spaces-to-a-string) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Design
 |  |
