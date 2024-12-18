@@ -85,6 +85,7 @@
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
@@ -138,10 +139,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
