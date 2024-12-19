@@ -83,6 +83,7 @@
 | [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -138,12 +139,14 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
+| [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -288,6 +292,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
 ## Graph
