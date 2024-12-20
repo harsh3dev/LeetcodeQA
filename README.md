@@ -169,20 +169,24 @@
 ## Tree
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String Matching
 |  |
