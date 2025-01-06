@@ -1,17 +1,22 @@
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
-        unordered_set<int> st;
-        vector<int> ans(boxes.length(), 0);
+        int n = boxes.size();
+        vector<int> ans(n,0);
+        int cumm = 0;
+        int cummsumm = 0;
 
-        for(int i = 0; i < boxes.length(); i++){
-            if(boxes[i]=='1') st.insert(i);
+        for(int i = 0; i < n; i++){
+            ans[i] += cummsumm;
+            cumm += boxes[i]=='1'?1:0;
+            cummsumm += cumm;
         }
-
-        for(int i = 0; i < boxes.length(); i++){
-            for(const auto& j:st){
-                ans[i] += abs(j-i);
-            }
+        cumm = 0;
+        cummsumm = 0;
+        for(int i = n-1; i >= 0; i--){
+            ans[i] += cummsumm;
+            cumm += boxes[i]=='1'?1:0;
+            cummsumm += cumm;
         }
 
         return ans;
