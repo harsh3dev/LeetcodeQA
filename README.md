@@ -101,6 +101,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -399,6 +400,7 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Trie
 |  |
 | ------- |
@@ -411,4 +413,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
