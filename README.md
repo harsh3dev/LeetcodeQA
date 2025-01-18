@@ -77,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
@@ -138,6 +139,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
