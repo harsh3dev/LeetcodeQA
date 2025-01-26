@@ -110,6 +110,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -279,6 +280,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -431,4 +433,5 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
