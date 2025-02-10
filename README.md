@@ -168,6 +168,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harsh3dev/LeetcodeQA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
@@ -357,6 +359,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3447-clear-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
