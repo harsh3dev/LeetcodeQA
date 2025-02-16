@@ -97,6 +97,7 @@
 | [1524-string-matching-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh3dev/LeetcodeQA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -432,6 +433,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
