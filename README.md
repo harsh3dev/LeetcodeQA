@@ -91,6 +91,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
+| [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -154,6 +155,7 @@
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
