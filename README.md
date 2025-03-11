@@ -157,6 +157,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -190,6 +191,7 @@
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harsh3dev/LeetcodeQA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/1524-string-matching-in-an-array) |
@@ -312,6 +314,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harsh3dev/LeetcodeQA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
