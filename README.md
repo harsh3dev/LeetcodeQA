@@ -125,6 +125,7 @@
 | [3429-special-array-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [2465-shifting-letters-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
