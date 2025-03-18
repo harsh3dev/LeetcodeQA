@@ -112,6 +112,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harsh3dev/LeetcodeQA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harsh3dev/LeetcodeQA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
@@ -461,6 +463,7 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Trie
 |  |
