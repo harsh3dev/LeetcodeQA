@@ -241,6 +241,7 @@
 | [0100-same-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -253,6 +254,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -404,6 +406,7 @@
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/harsh3dev/LeetcodeQA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -490,6 +493,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
