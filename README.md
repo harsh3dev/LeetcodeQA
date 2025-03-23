@@ -289,6 +289,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2562-count-ways-to-build-good-strings) |
 ## Divide and Conquer
@@ -412,6 +413,7 @@
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/harsh3dev/LeetcodeQA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Two Pointers
@@ -505,6 +507,7 @@
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Data Stream
 |  |
 | ------- |
@@ -517,4 +520,5 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
