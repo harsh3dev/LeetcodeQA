@@ -85,6 +85,7 @@
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
@@ -316,6 +319,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
@@ -507,6 +511,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
