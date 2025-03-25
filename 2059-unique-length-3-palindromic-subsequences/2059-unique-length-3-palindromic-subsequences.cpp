@@ -17,14 +17,14 @@ public:
             int left = positions.first;
             int right = positions.second;
             
-            if (right - left <= 1) continue;  // No valid subsequences in this range
+            if (right - left <= 1) continue;
             
             unordered_set<char> uniqueChars;
             for (int i = left + 1; i < right; i++) {
                 uniqueChars.insert(s[i]);
             }
             
-            ans += uniqueChars.size();  // Count the unique characters between first and last occurrence
+            ans += uniqueChars.size();  
         }
         
         return ans;
