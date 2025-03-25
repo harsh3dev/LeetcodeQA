@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harsh3dev/LeetcodeQA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
@@ -320,6 +321,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -419,6 +421,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harsh3dev/LeetcodeQA/tree/master/0031-next-permutation) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
