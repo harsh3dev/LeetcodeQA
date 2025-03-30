@@ -165,6 +165,7 @@
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -198,6 +199,7 @@
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
@@ -415,6 +417,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
@@ -434,6 +437,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harsh3dev/LeetcodeQA/tree/master/0031-next-permutation) |
+| [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
