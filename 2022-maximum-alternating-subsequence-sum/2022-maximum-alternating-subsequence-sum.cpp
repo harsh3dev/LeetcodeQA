@@ -1,14 +1,35 @@
 class Solution {
 public:
-    long long dp[2][100001];
-    long long util(int i, vector<int>&nums, bool isPos){
-        if(i>=nums.size())return 0;
-        if(dp[isPos][i]!=-1)return dp[isPos][i];
-        long long curr = (isPos?nums[i]:-1*nums[i]);
-        return dp[isPos][i] = max(curr + util(i+1, nums, !isPos), util(i+1, nums, isPos));
+    int n;
+    long long t[100001][2];
+    long long solve(vector<int>& nums, bool flag, int i) {
+        if (i >= n) {
+            return 0;
+        }
+
+        if (t[i][flag] != -1){
+            return t[i][flag];
+        }
+        long long skip = solve(nums, flag, i + 1); // when we skip then we do not take
+                                             // the curr value from the list
+
+        long long val = nums[i];
+        if (!flag) {
+            val = -val;
+        }
+
+        long long take = solve(nums, !flag, i + 1) +
+                   val; // when we take we both add the value to the ans and
+                        // swap the flag
+
+        return t[i][flag] = max(take, skip);
     }
     long long maxAlternatingSum(vector<int>& nums) {
-        memset(dp, -1, sizeof(dp));
-        return util(0, nums, true);
+        memset(t, -1, sizeof(t));
+        n = nums.size();
+
+        return solve(nums, true,
+                     0); // since true means num will be added and false means
+                         // num will be subtracted, as alternating nums
     }
 };
