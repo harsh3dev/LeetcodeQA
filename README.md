@@ -161,6 +161,7 @@
 ## Design
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Segment Tree
@@ -178,6 +179,7 @@
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
+| [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh3dev/LeetcodeQA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
@@ -215,6 +217,7 @@
 ## String
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
@@ -267,6 +270,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -553,6 +557,7 @@
 ## Trie
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
