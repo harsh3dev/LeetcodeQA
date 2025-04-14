@@ -1,26 +1,31 @@
 class MagicDictionary {
 public:
-    set<string> st;
+    unordered_map<string, char> mp;
+    char replace = '1';
     MagicDictionary() {
         
     }
     
     void buildDict(vector<string> dictionary) {
-        for(string &word:dictionary){
-            st.insert(word);
+        for(string &word : dictionary){
+            for(int i = 0; i < word.size(); i++){
+                string newword = word;
+                newword[i] = replace;
+                if(!mp.count(newword)){
+                    mp[newword] = word[i];
+                } else if(mp[newword] != word[i]){
+                    mp[newword] = replace;
+                }
+            }
         }
     }
     
-    bool search(string searchWord) {
-        // if(st.count(searchWord)) return false;
-        string newWord = searchWord;
-        for(int j = 0; j < searchWord.size(); j++){
-            for(char i = 'a'; i <= 'z'; i++){
-                newWord[j] = i;
-                if(st.count(newWord)>0 && searchWord[j]!=i){
-                    return true;
-                }
-                newWord[j] = searchWord[j];
+    bool search(string word) {
+        for(int i = 0; i < word.size(); i++){
+            string newword = word;
+            newword[i] = replace;
+            if(mp.count(newword) && mp[newword] != word[i]){
+                return true;
             }
         }
         return false;
