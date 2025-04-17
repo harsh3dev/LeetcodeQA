@@ -120,6 +120,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/harsh3dev/LeetcodeQA/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
