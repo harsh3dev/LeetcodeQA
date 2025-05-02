@@ -231,6 +231,7 @@
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
@@ -342,6 +343,7 @@
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -503,6 +505,7 @@
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/harsh3dev/LeetcodeQA/tree/master/1894-merge-strings-alternately) |
