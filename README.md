@@ -149,6 +149,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3429-special-array-i) |
@@ -396,6 +397,7 @@
 | [2998-count-symmetric-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -430,6 +432,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
