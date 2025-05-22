@@ -158,6 +158,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -433,6 +434,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [2681-put-marbles-in-bags](https://github.com/harsh3dev/LeetcodeQA/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harsh3dev/LeetcodeQA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
 | ------- |
@@ -557,6 +560,7 @@
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -570,6 +574,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
