@@ -149,6 +149,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harsh3dev/LeetcodeQA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -291,6 +292,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/harsh3dev/LeetcodeQA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/harsh3dev/LeetcodeQA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
@@ -376,6 +378,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Divide and Conquer
@@ -436,6 +439,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
@@ -523,6 +527,7 @@
 | [2681-put-marbles-in-bags](https://github.com/harsh3dev/LeetcodeQA/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harsh3dev/LeetcodeQA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
@@ -616,6 +621,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
 |  |
 | ------- |
