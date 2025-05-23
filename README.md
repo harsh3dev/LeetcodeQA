@@ -91,6 +91,7 @@
 | [0198-house-robber](https://github.com/harsh3dev/LeetcodeQA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
@@ -162,6 +163,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -357,6 +359,7 @@
 | [0152-maximum-product-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harsh3dev/LeetcodeQA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
