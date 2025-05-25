@@ -4,7 +4,7 @@ public:
         unordered_map<string, int> mp;
         int n = words.size();
         int count = 0;
-        int isPal = 0;
+        int singlePal = 0;
 
         for (string word : words) {
             mp[word]++;
@@ -18,17 +18,20 @@ public:
             string rev = word;
             reverse(rev.begin(), rev.end());
             if (word == rev) {
-                count += (fr / 2);
                 if (fr % 2) {
-                    isPal = 1;
+                    singlePal = 1;
+                    count += fr - 1;
+                } else{
+                    count += fr;
                 }
             } else {
-                if (rev < word && mp.count(rev)) {
+                if (mp.count(rev)) {
+                    // here *2 will not be there because it repeats for lc as well as cl
                     count += min(fr, mp[rev]);
                 }
             }
         }
 
-        return count * 4 + isPal * 2;
+        return count * 2 + singlePal * 2;
     }
 };
