@@ -211,6 +211,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harsh3dev/LeetcodeQA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -374,6 +375,7 @@
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
@@ -540,6 +542,7 @@
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/2439-longest-cycle-in-a-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/harsh3dev/LeetcodeQA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -594,6 +597,7 @@
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harsh3dev/LeetcodeQA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -655,6 +659,7 @@
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/2439-longest-cycle-in-a-graph) |
 ## Data Stream
@@ -689,6 +694,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
 | ------- |
