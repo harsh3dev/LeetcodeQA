@@ -87,6 +87,7 @@
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh3dev/LeetcodeQA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/harsh3dev/LeetcodeQA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harsh3dev/LeetcodeQA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
@@ -527,6 +528,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/harsh3dev/LeetcodeQA/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
