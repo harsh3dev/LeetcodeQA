@@ -219,6 +219,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harsh3dev/LeetcodeQA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -238,6 +239,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -270,6 +272,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2465-shifting-letters-ii) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harsh3dev/LeetcodeQA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harsh3dev/LeetcodeQA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -537,6 +540,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harsh3dev/LeetcodeQA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harsh3dev/LeetcodeQA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/harsh3dev/LeetcodeQA/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harsh3dev/LeetcodeQA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
