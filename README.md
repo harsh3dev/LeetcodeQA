@@ -288,6 +288,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2050-count-good-numbers) |
@@ -734,4 +735,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
