@@ -234,6 +234,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3637-count-number-of-balanced-permutations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
 | ------- |
@@ -625,6 +627,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Queue
 |  |
 | ------- |
