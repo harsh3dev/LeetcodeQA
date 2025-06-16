@@ -4,13 +4,18 @@ public:
         int dif = -1;
         int n = nums.size();
 
-        for(int i = 0; i < n; i++){
-            for(int j = i+1; j < n; j++){
-                if(nums[j] > nums[i]){
-                    dif = max(dif, nums[j]-nums[i]);
-                }
+        int mn = nums[0];
+
+        for(int i = 1; i < n; i++){
+            if(nums[i] > mn){
+                dif = max({nums[i] - mn, dif});
+            }
+
+            if(nums[i] < mn){
+                mn = nums[i];
             }
         }
+
         return dif;
     }
 };
