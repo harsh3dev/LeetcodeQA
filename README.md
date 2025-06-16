@@ -122,6 +122,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harsh3dev/LeetcodeQA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
