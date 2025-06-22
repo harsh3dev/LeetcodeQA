@@ -1,19 +1,32 @@
 class Solution {
-public:
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n+1, 1);
-        int maxL = 1;
-        
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < i; j++){
-                if(nums[i] > nums[j] && dp[j] + 1 > dp[i]){
-                    dp[i] = dp[j] + 1;
-                }
-                maxL = max(maxL, dp[i]);
-            }
+private:
+    int dp(vector<int>& nums, int i, int pr){
+        if(i == nums.size()){
+            return 0;
         }
 
-        return maxL;
+        if(t[i][pr+1] != -1){
+            return t[i][pr+1];
+        }
+
+        int take = 0;
+        int skip = dp(nums, i+1, pr); // prev doesnt change when skipping
+
+        if(pr == -1 || nums[i] > nums[pr]){
+            take = 1 + dp(nums, i+1, i);
+        }
+
+        return t[i][pr+1] = max(take, skip);
+    }
+public:
+    vector<vector<int>> t;
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        t.resize(n, vector<int>(n+1,-1));
+        
+        return dp(nums, 0, -1);
     }
 };
+// start from i
+// take next el if > else skip
+// res will be max take, skip
