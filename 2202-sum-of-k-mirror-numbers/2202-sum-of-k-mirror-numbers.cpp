@@ -13,7 +13,7 @@ private:
     }
 
     bool isK(int k, long long num){
-        string digs = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"; // handles base up to 36
+        string digs = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         string knum = "";
 
         while(num > 0){
