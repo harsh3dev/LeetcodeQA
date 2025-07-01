@@ -94,6 +94,7 @@
 | [0213-house-robber-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
@@ -261,6 +262,7 @@
 ## String
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -330,6 +332,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
@@ -349,6 +352,7 @@
 | [0133-clone-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
@@ -585,6 +589,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
@@ -708,6 +713,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/harsh3dev/LeetcodeQA/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -729,6 +735,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harsh3dev/LeetcodeQA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
