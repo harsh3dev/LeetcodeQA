@@ -1,23 +1,18 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        int n = arr.size();
-        priority_queue<pair<int, int>> pq;
         unordered_map<int, int> mp;
-        for(int i = 0; i < n; i++){
-            mp[arr[i]]++;
+        for (int num : arr) {
+            mp[num]++;
         }
 
-        for(const auto& m:mp){
-            pq.push({m.first, m.second});
+        int res = -1;
+        for (const auto& [num, count] : mp) {
+            if (num == count) {
+                res = max(res, num);
+            }
         }
 
-        while(!pq.empty()){
-            pair<int, int> t = pq.top();
-            pq.pop();
-            if(t.first == t.second) return t.first;
-        }
-
-        return -1;
+        return res;
     }
 };
