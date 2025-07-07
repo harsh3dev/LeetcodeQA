@@ -111,6 +111,7 @@
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -482,6 +483,7 @@
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harsh3dev/LeetcodeQA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -577,6 +579,7 @@
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
@@ -630,6 +633,7 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
