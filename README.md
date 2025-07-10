@@ -172,6 +172,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -598,6 +599,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh3dev/LeetcodeQA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/harsh3dev/LeetcodeQA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Graph
 |  |
 | ------- |
@@ -773,6 +775,7 @@
 | [2998-count-symmetric-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
 | ------- |
