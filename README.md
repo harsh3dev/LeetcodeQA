@@ -103,6 +103,7 @@
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/harsh3dev/LeetcodeQA/tree/master/0945-snakes-and-ladders) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -413,6 +414,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1250-longest-common-subsequence) |
@@ -707,6 +709,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
