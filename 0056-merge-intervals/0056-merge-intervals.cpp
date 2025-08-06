@@ -3,16 +3,16 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
 
-        vector<vector<int>> merged;
-        for(auto arr : intervals){
-            if(merged.empty() || merged.back()[1] < arr[0]){
-                merged.push_back(arr);
+        vector<vector<int>> ans;
+        for(int i = 0; i < intervals.size(); i++){
+            if(ans.empty() || ans.back()[1] < intervals[i][0]){
+                ans.push_back(intervals[i]);
             } else{
-                merged.back()[1] = max(merged.back()[1], arr[1]);
+                ans.back()[1] = max(ans.back()[1], intervals[i][1]);
             }
         }
 
-        return merged;
+        return ans;
     }
 };
 
