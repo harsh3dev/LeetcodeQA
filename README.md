@@ -326,6 +326,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2050-count-good-numbers) |
@@ -448,6 +449,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0903-implement-rand10-using-rand7](https://github.com/harsh3dev/LeetcodeQA/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0915-generate-random-point-in-a-circle) |
@@ -722,6 +724,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
