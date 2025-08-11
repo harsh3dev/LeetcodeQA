@@ -149,6 +149,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2479-meeting-rooms-iii) |
+| [2529-range-product-queries-of-powers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -682,6 +683,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh3dev/LeetcodeQA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
@@ -734,6 +736,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
+| [2529-range-product-queries-of-powers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
