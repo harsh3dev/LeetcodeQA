@@ -305,6 +305,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harsh3dev/LeetcodeQA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
