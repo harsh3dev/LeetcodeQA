@@ -1,39 +1,45 @@
-using info = tuple<double, int, int>;
-info A[100000];
 class Solution {
+private:
+    double calcProfit(int pass, int total){
+        return (double)(pass+1)/(total+1) - (double)pass/total;
+    }
 public:
-    static double maxAverageRatio(vector<vector<int>>& classes, int k) {
-        const int n = classes.size();
-        double sum = 0.0;
-        int i = 0;
-        for (auto& pq : classes) {
-            int p = pq[0], q = pq[1];
-            sum += (double)p/q;
-            double inc=(double)(q - p) / (q * (q + 1.0));
-            A[i++]={inc, p, q};
+    double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+        // push initials to the pq
+        priority_queue<pair<double, int>> pq;
+        for(int i = 0; i < classes.size(); i++){
+            pq.push(
+                {
+                    calcProfit(classes[i][0], classes[i][1]),
+                    i
+                }
+            );
         }
-        
-        make_heap(A, A+n);
-        
-        for (int i = 0; i < k; i++) {
-            pop_heap(A, A+n);
-            auto [r, p, q] = A[n-1];
-            if (r==0) break;// early stop
-            
-            // Add the current inc to the sum
-            sum += r;
-            double r2= (double)(q - p) / ((q +1.0)* (q + 2.0));
-            A[n-1]={ r2, p+1, q+1};
-            push_heap(A, A+n);
+
+        // update the classes with extrastudents
+        for(int i = 0; i < extraStudents; i++){
+            auto [gain, idx] = pq.top();
+            pq.pop();
+            classes[idx][0]++;
+            classes[idx][1]++;
+
+            pq.push({
+                calcProfit(classes[idx][0], classes[idx][1]),
+                idx
+            });
         }
-        
-        return sum / n;
+
+        double avgsum = 0;
+        for(int i = 0; i < classes.size(); i++){
+            avgsum += (double)classes[i][0]/classes[i][1];
+        }
+
+        avgsum /= classes.size();
+
+        return avgsum;
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
+// adding an extra student will increase both the total no and the pass
+// adding more and more extra students to the same class will decrease the rate of increase eventually
+// so we have to add in that class which will give more gain
+// so we maintain a pq which will maintain the highest gain
