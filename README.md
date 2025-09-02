@@ -169,6 +169,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harsh3dev/LeetcodeQA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
@@ -482,6 +483,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -527,6 +529,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh3dev/LeetcodeQA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -824,6 +827,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
@@ -837,6 +841,7 @@
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0915-generate-random-point-in-a-circle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Rejection Sampling
 |  |
 | ------- |
