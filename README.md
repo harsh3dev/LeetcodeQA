@@ -491,6 +491,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/harsh3dev/LeetcodeQA/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
