@@ -109,6 +109,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/harsh3dev/LeetcodeQA/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/harsh3dev/LeetcodeQA/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -233,6 +234,7 @@
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/harsh3dev/LeetcodeQA/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh3dev/LeetcodeQA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
@@ -292,6 +294,7 @@
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/harsh3dev/LeetcodeQA/tree/master/1006-vowel-spellchecker) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
