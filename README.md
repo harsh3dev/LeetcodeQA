@@ -293,6 +293,7 @@
 | [0093-restore-ip-addresses](https://github.com/harsh3dev/LeetcodeQA/tree/master/0093-restore-ip-addresses) |
 | [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
@@ -437,6 +438,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
