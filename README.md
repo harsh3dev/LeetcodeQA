@@ -316,6 +316,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harsh3dev/LeetcodeQA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/harsh3dev/LeetcodeQA/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
