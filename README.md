@@ -132,6 +132,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh3dev/LeetcodeQA/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1980-find-unique-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -248,6 +249,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -320,6 +322,7 @@
 | [1894-merge-strings-alternately](https://github.com/harsh3dev/LeetcodeQA/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/harsh3dev/LeetcodeQA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2232-adding-spaces-to-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2232-adding-spaces-to-a-string) |
@@ -771,6 +774,7 @@
 | [0679-24-game](https://github.com/harsh3dev/LeetcodeQA/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harsh3dev/LeetcodeQA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/harsh3dev/LeetcodeQA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/2802-find-the-punishment-number-of-an-integer) |
