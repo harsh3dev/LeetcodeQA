@@ -468,6 +468,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/harsh3dev/LeetcodeQA/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -735,6 +736,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
