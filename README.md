@@ -218,11 +218,13 @@
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+| [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -497,6 +499,7 @@
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harsh3dev/LeetcodeQA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2050-count-good-numbers) |
