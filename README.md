@@ -169,6 +169,7 @@
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -536,6 +537,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harsh3dev/LeetcodeQA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh3dev/LeetcodeQA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -744,6 +746,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
