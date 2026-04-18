@@ -116,6 +116,7 @@
 | [1200-minimum-absolute-difference](https://github.com/harsh3dev/LeetcodeQA/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/harsh3dev/LeetcodeQA/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -500,6 +501,7 @@
 | [0903-implement-rand10-using-rand7](https://github.com/harsh3dev/LeetcodeQA/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/1013-fibonacci-number) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/harsh3dev/LeetcodeQA/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
@@ -661,6 +663,7 @@
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/harsh3dev/LeetcodeQA/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
