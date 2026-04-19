@@ -128,6 +128,7 @@
 | [1656-count-good-triplets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh3dev/LeetcodeQA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -203,6 +204,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/harsh3dev/LeetcodeQA/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -716,6 +718,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1894-merge-strings-alternately](https://github.com/harsh3dev/LeetcodeQA/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2414-move-pieces-to-obtain-a-string) |
