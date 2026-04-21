@@ -126,6 +126,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harsh3dev/LeetcodeQA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1656-count-good-triplets) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -400,6 +401,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh3dev/LeetcodeQA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2439-longest-cycle-in-a-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -929,4 +931,8 @@
 | [0141-linked-list-cycle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0908-middle-of-the-linked-list) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
