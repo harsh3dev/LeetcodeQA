@@ -1,16 +1,39 @@
 class Solution {
-public:
-    int climbStairs(int n) {
-        vector<int> m(n + 1, -1);
-        if (n <= 3)
-            return n;
-        m[0] = 0;
-        m[1] = 1;
-        m[2] = 2;
-
-        for (int i = 3; i <= n; i++) {
-            m[i] = m[i - 1] + m[i - 2];
+private:
+    int solve(int curr, int n){
+        if(curr > n) {
+            return 0;
         }
-        return m[n];
+
+        if (curr == n){
+            return 1;
+        }
+
+        if (m[curr] != -1) return m[curr];
+
+        int two = solve(curr + 2, n);
+        int one = solve(curr + 1, n);
+
+        return m[curr] = two + one;
+    }
+public:
+    int m[46];
+    int climbStairs(int n) {
+        int curr = 0;
+        for(int i = 0; i < 46; i++){
+            m[i] = -1;
+        }
+        return solve(curr, n);
     }
 };
+
+/*
+1 + 1 + 1 + 1 + 1
+1 + 1 + 1 + 2
+1 + 1 + 2 + 1
+1 + 2 + 1 + 1
+2 + 1 + 1 + 1
+1 + 2 + 2
+2 + 1 + 2
+2 + 2 + 1
+*/
