@@ -337,6 +337,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harsh3dev/LeetcodeQA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
 | [1894-merge-strings-alternately](https://github.com/harsh3dev/LeetcodeQA/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harsh3dev/LeetcodeQA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -481,6 +482,7 @@
 | [1250-longest-common-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harsh3dev/LeetcodeQA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/harsh3dev/LeetcodeQA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -598,6 +600,7 @@
 | ------- | ------- |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh3dev/LeetcodeQA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -761,6 +764,7 @@
 | ------- | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh3dev/LeetcodeQA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
