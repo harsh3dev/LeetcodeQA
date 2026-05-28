@@ -178,6 +178,7 @@
 | [2906-construct-product-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -356,6 +357,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harsh3dev/LeetcodeQA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harsh3dev/LeetcodeQA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3093-longest-common-suffix-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harsh3dev/LeetcodeQA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -845,6 +847,7 @@
 | [0386-lexicographical-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/harsh3dev/LeetcodeQA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
+| [3093-longest-common-suffix-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 | Problem Name | Difficulty |
