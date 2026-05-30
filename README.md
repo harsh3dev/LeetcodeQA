@@ -182,6 +182,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3161-block-placement-queries/) | Hard |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harsh3dev/LeetcodeQA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
@@ -222,6 +223,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/harsh3dev/LeetcodeQA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3161-block-placement-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3161-block-placement-queries/) | Hard |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harsh3dev/LeetcodeQA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
@@ -240,6 +242,7 @@
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3161-block-placement-queries/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -943,6 +946,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3161-block-placement-queries/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
