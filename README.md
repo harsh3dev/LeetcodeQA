@@ -280,6 +280,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harsh3dev/LeetcodeQA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsh3dev/LeetcodeQA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2479-meeting-rooms-iii) |
@@ -396,6 +397,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh3dev/LeetcodeQA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsh3dev/LeetcodeQA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/harsh3dev/LeetcodeQA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -420,6 +422,7 @@
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsh3dev/LeetcodeQA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2439-longest-cycle-in-a-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -442,6 +445,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh3dev/LeetcodeQA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/harsh3dev/LeetcodeQA/tree/master/1558-course-schedule-iv) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsh3dev/LeetcodeQA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2439-longest-cycle-in-a-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/harsh3dev/LeetcodeQA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -455,6 +459,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harsh3dev/LeetcodeQA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harsh3dev/LeetcodeQA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsh3dev/LeetcodeQA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/harsh3dev/LeetcodeQA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
