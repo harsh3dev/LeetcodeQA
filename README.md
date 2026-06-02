@@ -201,6 +201,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh3dev/LeetcodeQA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -228,6 +229,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harsh3dev/LeetcodeQA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 | Problem Name | Difficulty |
@@ -609,6 +611,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh3dev/LeetcodeQA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harsh3dev/LeetcodeQA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -720,6 +723,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh3dev/LeetcodeQA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/harsh3dev/LeetcodeQA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Graph
@@ -756,6 +760,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harsh3dev/LeetcodeQA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
