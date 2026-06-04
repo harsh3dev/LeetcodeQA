@@ -517,6 +517,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh3dev/LeetcodeQA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +562,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3637-count-number-of-balanced-permutations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3830-find-closest-person](https://github.com/harsh3dev/LeetcodeQA/tree/master/3830-find-closest-person) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -934,6 +936,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
