@@ -197,6 +197,7 @@
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -230,6 +231,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harsh3dev/LeetcodeQA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3427-special-array-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3427-special-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
@@ -301,6 +303,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh3dev/LeetcodeQA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/harsh3dev/LeetcodeQA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -982,4 +985,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
