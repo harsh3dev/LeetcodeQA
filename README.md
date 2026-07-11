@@ -435,6 +435,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/harsh3dev/LeetcodeQA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/harsh3dev/LeetcodeQA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -459,6 +460,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/harsh3dev/LeetcodeQA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/harsh3dev/LeetcodeQA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/harsh3dev/LeetcodeQA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/harsh3dev/LeetcodeQA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -992,10 +994,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/harsh3dev/LeetcodeQA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/harsh3dev/LeetcodeQA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
