@@ -938,6 +938,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/harsh3dev/LeetcodeQA/tree/main/1291-sequential-digits/) | Medium |
 | [1656-count-good-triplets](https://github.com/harsh3dev/LeetcodeQA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/harsh3dev/LeetcodeQA/tree/master/2140-longest-subsequence-repeated-k-times) |
