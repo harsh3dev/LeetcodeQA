@@ -138,6 +138,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harsh3dev/LeetcodeQA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh3dev/LeetcodeQA/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -549,6 +550,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harsh3dev/LeetcodeQA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -920,6 +922,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2610-closest-prime-numbers-in-range](https://github.com/harsh3dev/LeetcodeQA/tree/master/2610-closest-prime-numbers-in-range) |
 ## Shortest Path
 | Problem Name | Difficulty |
