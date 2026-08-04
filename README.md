@@ -209,6 +209,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh3dev/LeetcodeQA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3731-find-missing-elements](https://github.com/harsh3dev/LeetcodeQA/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harsh3dev/LeetcodeQA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
@@ -310,6 +311,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harsh3dev/LeetcodeQA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3731-find-missing-elements](https://github.com/harsh3dev/LeetcodeQA/tree/main/3731-find-missing-elements/) | Easy |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 | Problem Name | Difficulty |
@@ -629,6 +631,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3647-zero-array-transformation-iii) |
+| [3731-find-missing-elements](https://github.com/harsh3dev/LeetcodeQA/tree/main/3731-find-missing-elements/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/harsh3dev/LeetcodeQA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 | Problem Name | Difficulty |
