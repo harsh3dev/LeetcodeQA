@@ -120,6 +120,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/harsh3dev/LeetcodeQA/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/harsh3dev/LeetcodeQA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -277,6 +278,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harsh3dev/LeetcodeQA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/harsh3dev/LeetcodeQA/tree/master/1319-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/harsh3dev/LeetcodeQA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
@@ -720,6 +722,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/harsh3dev/LeetcodeQA/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/harsh3dev/LeetcodeQA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -873,6 +876,7 @@
 | [0342-power-of-four](https://github.com/harsh3dev/LeetcodeQA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/harsh3dev/LeetcodeQA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh3dev/LeetcodeQA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/2308-divide-array-into-equal-pairs) |
