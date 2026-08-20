@@ -180,6 +180,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -711,6 +712,7 @@
 | [2402-meeting-rooms-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2479-meeting-rooms-iii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3447-clear-digits](https://github.com/harsh3dev/LeetcodeQA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
