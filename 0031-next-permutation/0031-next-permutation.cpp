@@ -2,28 +2,28 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
-        int m1 = -1;
-
-        for(int i = n-1; i > 0; i--){
-            if(nums[i]>nums[i-1]){
-                m1 = i - 1;
+        int id = -1;
+        for(int i = n-2; i >= 0; i--){
+            if(nums[i] < nums[i+1]){
+                id = i;
                 break;
             }
         }
 
-        int m2 = m1;
-
-        if(m1 != -1){
-            for(int i = n-1; i >= m1; i--){
-                if(nums[i] > nums[m1]){
-                    m2 = i;
-                    break;
-                }
-            }
-
-            swap(nums[m1], nums[m2]);
+        if(id == -1){
+            reverse(nums.begin(), nums.end());
+            return;
         }
 
-        reverse(nums.begin() + m1 + 1, nums.end());
+        for(int i = n-1; i > id; i--) {
+            if(nums[id] < nums[i]){
+                swap(nums[id], nums[i]);
+                break;
+            }
+        }
+    
+        reverse(nums.begin() + id + 1, nums.end());
     }
 };
+
+// starts with an observation: to match the longest matching prefix
