@@ -379,6 +379,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harsh3dev/LeetcodeQA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harsh3dev/LeetcodeQA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harsh3dev/LeetcodeQA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3093-longest-common-suffix-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -651,6 +652,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harsh3dev/LeetcodeQA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Database
 | Problem Name | Difficulty |
