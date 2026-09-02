@@ -215,6 +215,7 @@
 | [3731-find-missing-elements](https://github.com/harsh3dev/LeetcodeQA/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harsh3dev/LeetcodeQA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +583,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/harsh3dev/LeetcodeQA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3830-find-closest-person](https://github.com/harsh3dev/LeetcodeQA/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
