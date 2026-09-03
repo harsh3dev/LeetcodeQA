@@ -402,6 +402,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/harsh3dev/LeetcodeQA/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh3dev/LeetcodeQA/tree/master/0326-power-of-three) |
@@ -547,6 +548,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/harsh3dev/LeetcodeQA/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh3dev/LeetcodeQA/tree/master/0326-power-of-three) |
