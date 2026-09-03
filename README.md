@@ -85,6 +85,7 @@
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
@@ -220,6 +221,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
@@ -589,6 +591,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harsh3dev/LeetcodeQA/tree/main/0463-island-perimeter/) | Easy |
