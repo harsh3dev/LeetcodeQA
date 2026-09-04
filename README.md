@@ -1026,4 +1026,8 @@
 | [2685-count-the-number-of-complete-components](https://github.com/harsh3dev/LeetcodeQA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
