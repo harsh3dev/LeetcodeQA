@@ -19,3 +19,4 @@ public:
         return candidate;
     }
 };
+// assumes that candidate appears more than or equal to n/2 times
