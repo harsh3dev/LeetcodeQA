@@ -93,6 +93,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh3dev/LeetcodeQA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/harsh3dev/LeetcodeQA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/harsh3dev/LeetcodeQA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/0213-house-robber-ii) |
@@ -273,6 +274,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
@@ -543,6 +545,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -618,6 +621,7 @@
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/harsh3dev/LeetcodeQA/tree/master/1200-minimum-absolute-difference) |
@@ -844,6 +848,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
@@ -1030,4 +1035,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/main/0056-merge-intervals/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
