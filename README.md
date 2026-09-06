@@ -1039,4 +1039,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
