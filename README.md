@@ -182,6 +182,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harsh3dev/LeetcodeQA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -310,6 +311,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harsh3dev/LeetcodeQA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2915-count-of-interesting-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -573,6 +575,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/harsh3dev/LeetcodeQA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harsh3dev/LeetcodeQA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/harsh3dev/LeetcodeQA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2998-count-symmetric-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/harsh3dev/LeetcodeQA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3201-distribute-candies-among-children-ii) |
@@ -608,6 +611,7 @@
 | [2089-maximum-matrix-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh3dev/LeetcodeQA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/2906-construct-product-matrix/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/harsh3dev/LeetcodeQA/tree/master/3227-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
