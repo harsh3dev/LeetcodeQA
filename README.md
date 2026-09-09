@@ -504,6 +504,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/harsh3dev/LeetcodeQA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
@@ -556,6 +557,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harsh3dev/LeetcodeQA/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/harsh3dev/LeetcodeQA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh3dev/LeetcodeQA/tree/master/0326-power-of-three) |
@@ -967,6 +969,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/harsh3dev/LeetcodeQA/tree/main/0062-unique-paths/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harsh3dev/LeetcodeQA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/harsh3dev/LeetcodeQA/tree/master/3548-find-the-count-of-good-integers) |
