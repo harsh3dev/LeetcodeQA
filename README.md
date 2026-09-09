@@ -97,6 +97,7 @@
 | [0198-house-robber](https://github.com/harsh3dev/LeetcodeQA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
@@ -276,6 +277,7 @@
 | [0133-clone-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
@@ -626,6 +628,7 @@
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/harsh3dev/LeetcodeQA/tree/master/1200-minimum-absolute-difference) |
@@ -853,6 +856,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/harsh3dev/LeetcodeQA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/harsh3dev/LeetcodeQA/tree/master/1502-construct-k-palindrome-strings) |
@@ -1043,6 +1047,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
