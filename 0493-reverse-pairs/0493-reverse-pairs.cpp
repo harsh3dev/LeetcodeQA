@@ -60,3 +60,6 @@ public:
         return mergeSort(nums, 0, n-1);
     }
 };
+
+// idea is to divide into subproblems
+// observations are, the order of elements doesnt matter for the 2 parts of the array, if i divide that array into 2 parts, as if both parts are sorted, we can compare them, as its relative to the next elements not their order so merge sort is usefull
