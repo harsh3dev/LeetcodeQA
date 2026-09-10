@@ -112,6 +112,7 @@
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/harsh3dev/LeetcodeQA/tree/master/0945-snakes-and-ladders) |
@@ -551,6 +552,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -633,6 +635,7 @@
 | [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/harsh3dev/LeetcodeQA/tree/master/1200-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -817,6 +820,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh3dev/LeetcodeQA/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/harsh3dev/LeetcodeQA/tree/master/2164-two-best-non-overlapping-events) |
@@ -1023,6 +1027,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -1059,4 +1064,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
