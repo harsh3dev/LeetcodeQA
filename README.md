@@ -104,6 +104,7 @@
 | [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/harsh3dev/LeetcodeQA/tree/main/0463-island-perimeter/) | Easy |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0679-24-game](https://github.com/harsh3dev/LeetcodeQA/tree/master/0679-24-game) |
@@ -228,6 +229,7 @@
 | [0074-search-a-2d-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -260,6 +262,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
@@ -267,6 +270,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
@@ -552,6 +556,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Math
@@ -1022,11 +1027,13 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/harsh3dev/LeetcodeQA/tree/main/3161-block-placement-queries/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [2280-count-good-triplets-in-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Linked List
@@ -1076,4 +1083,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
