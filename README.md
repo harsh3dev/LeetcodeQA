@@ -79,6 +79,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/harsh3dev/LeetcodeQA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
@@ -633,6 +634,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
@@ -802,6 +804,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/harsh3dev/LeetcodeQA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
