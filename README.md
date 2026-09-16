@@ -92,6 +92,7 @@
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh3dev/LeetcodeQA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/harsh3dev/LeetcodeQA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
@@ -280,6 +281,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
@@ -1048,6 +1050,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh3dev/LeetcodeQA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/harsh3dev/LeetcodeQA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harsh3dev/LeetcodeQA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
