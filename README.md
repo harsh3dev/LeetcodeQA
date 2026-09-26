@@ -83,6 +83,7 @@
 | [0031-next-permutation](https://github.com/harsh3dev/LeetcodeQA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/harsh3dev/LeetcodeQA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/harsh3dev/LeetcodeQA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/harsh3dev/LeetcodeQA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
@@ -280,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harsh3dev/LeetcodeQA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/harsh3dev/LeetcodeQA/tree/master/0133-clone-graph) |
@@ -357,6 +359,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/harsh3dev/LeetcodeQA/tree/main/0049-group-anagrams/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/harsh3dev/LeetcodeQA/tree/master/0093-restore-ip-addresses) |
 | [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
@@ -637,6 +640,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/harsh3dev/LeetcodeQA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/harsh3dev/LeetcodeQA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
