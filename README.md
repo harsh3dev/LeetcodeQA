@@ -112,6 +112,7 @@
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0679-24-game](https://github.com/harsh3dev/LeetcodeQA/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0706-design-hashmap](https://github.com/harsh3dev/LeetcodeQA/tree/main/0706-design-hashmap/) | Easy |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -258,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
+| [0706-design-hashmap](https://github.com/harsh3dev/LeetcodeQA/tree/main/0706-design-hashmap/) | Easy |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/1622-fancy-sequence/) | Hard |
@@ -290,6 +292,7 @@
 | [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0676-implement-magic-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/master/0676-implement-magic-dictionary) |
+| [0706-design-hashmap](https://github.com/harsh3dev/LeetcodeQA/tree/main/0706-design-hashmap/) | Easy |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -951,6 +954,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0706-design-hashmap](https://github.com/harsh3dev/LeetcodeQA/tree/main/0706-design-hashmap/) | Easy |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -1053,6 +1057,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/harsh3dev/LeetcodeQA/tree/main/0706-design-hashmap/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/harsh3dev/LeetcodeQA/tree/master/0908-middle-of-the-linked-list) |
 ## Union-Find
 | Problem Name | Difficulty |
