@@ -347,6 +347,7 @@
 | [0085-maximal-rectangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh3dev/LeetcodeQA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh3dev/LeetcodeQA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harsh3dev/LeetcodeQA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -372,6 +373,7 @@
 | [0793-swap-adjacent-in-lr-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh3dev/LeetcodeQA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/harsh3dev/LeetcodeQA/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/harsh3dev/LeetcodeQA/tree/master/1006-vowel-spellchecker) |
 | [1197-parsing-a-boolean-expression](https://github.com/harsh3dev/LeetcodeQA/tree/master/1197-parsing-a-boolean-expression) |
@@ -767,6 +769,7 @@
 | [0135-candy](https://github.com/harsh3dev/LeetcodeQA/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh3dev/LeetcodeQA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh3dev/LeetcodeQA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/harsh3dev/LeetcodeQA/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/harsh3dev/LeetcodeQA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1105,4 +1108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh3dev/LeetcodeQA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
