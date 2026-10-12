@@ -89,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harsh3dev/LeetcodeQA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/harsh3dev/LeetcodeQA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/harsh3dev/LeetcodeQA/tree/main/0078-subsets/) | Medium |
 | [0085-maximal-rectangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0118-pascals-triangle) |
@@ -914,6 +915,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/harsh3dev/LeetcodeQA/tree/main/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/harsh3dev/LeetcodeQA/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/harsh3dev/LeetcodeQA/tree/master/0679-24-game) |
@@ -926,6 +928,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/harsh3dev/LeetcodeQA/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/harsh3dev/LeetcodeQA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/harsh3dev/LeetcodeQA/tree/master/0342-power-of-four) |
