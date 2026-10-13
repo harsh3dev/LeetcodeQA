@@ -119,6 +119,7 @@
 | [0733-flood-fill](https://github.com/harsh3dev/LeetcodeQA/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/harsh3dev/LeetcodeQA/tree/master/0787-sliding-puzzle) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
@@ -238,6 +239,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
 | [0729-my-calendar-i](https://github.com/harsh3dev/LeetcodeQA/tree/master/0729-my-calendar-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harsh3dev/LeetcodeQA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh3dev/LeetcodeQA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harsh3dev/LeetcodeQA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -689,6 +691,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
@@ -846,6 +849,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harsh3dev/LeetcodeQA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0912-sort-an-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0912-sort-an-array/) | Medium |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh3dev/LeetcodeQA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh3dev/LeetcodeQA/tree/master/1917-maximum-average-pass-ratio) |
@@ -867,6 +871,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
@@ -909,11 +914,13 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harsh3dev/LeetcodeQA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harsh3dev/LeetcodeQA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harsh3dev/LeetcodeQA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/harsh3dev/LeetcodeQA/tree/master/2868-continuous-subarrays) |
 ## Backtracking
