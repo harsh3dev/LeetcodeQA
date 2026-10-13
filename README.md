@@ -100,6 +100,7 @@
 | [0169-majority-element](https://github.com/harsh3dev/LeetcodeQA/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/harsh3dev/LeetcodeQA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harsh3dev/LeetcodeQA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/harsh3dev/LeetcodeQA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
@@ -232,6 +233,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh3dev/LeetcodeQA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harsh3dev/LeetcodeQA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/harsh3dev/LeetcodeQA/tree/main/0493-reverse-pairs/) | Hard |
@@ -686,6 +688,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/harsh3dev/LeetcodeQA/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh3dev/LeetcodeQA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
@@ -863,6 +866,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh3dev/LeetcodeQA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1477-product-of-the-last-k-numbers](https://github.com/harsh3dev/LeetcodeQA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harsh3dev/LeetcodeQA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1871-jump-game-vii](https://github.com/harsh3dev/LeetcodeQA/tree/main/1871-jump-game-vii/) | Medium |
