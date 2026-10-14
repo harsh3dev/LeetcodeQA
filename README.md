@@ -105,6 +105,7 @@
 | [0229-majority-element-ii](https://github.com/harsh3dev/LeetcodeQA/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harsh3dev/LeetcodeQA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/harsh3dev/LeetcodeQA/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/harsh3dev/LeetcodeQA/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/harsh3dev/LeetcodeQA/tree/master/0416-partition-equal-subset-sum) |
@@ -774,6 +775,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/harsh3dev/LeetcodeQA/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0768-partition-labels](https://github.com/harsh3dev/LeetcodeQA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/harsh3dev/LeetcodeQA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh3dev/LeetcodeQA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -1126,4 +1128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh3dev/LeetcodeQA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/harsh3dev/LeetcodeQA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
