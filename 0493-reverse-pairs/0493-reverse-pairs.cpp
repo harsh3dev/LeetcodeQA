@@ -1,24 +1,23 @@
 class Solution {
 private:
-    int countEl(vector<int>& nums, int low, int mid, int high){
+    int countPairs(vector<int> &nums, int low, int mid, int high){
         int count = 0;
-        int t = mid+1;
+        int j = mid+1;
         for(int i = low; i <= mid; i++){
-            while(t <= high && ((1LL * nums[i]) > (1LL * 2 * nums[t]))){
-                t++;
+            while(j <= high && (1LL * nums[i]) > (1LL * nums[j] * 2)){
+                j++;
             }
-            count += t - (mid+1);
+
+            count += j - (mid + 1);
         }
+
         return count;
     }
     void merge(vector<int>& nums, int low, int mid, int high){
-        int i = low;
-        int j = mid+1;
-
         vector<int> temp;
-
+        int i = low, j = mid+1;
         while(i <= mid && j <= high){
-            if(nums[i] <= nums[j]){
+            if(nums[i] < nums[j]){
                 temp.push_back(nums[i]);
                 i++;
             } else {
@@ -28,12 +27,10 @@ private:
         }
 
         while(i <= mid){
-            temp.push_back(nums[i]);
-            i++;
+            temp.push_back(nums[i++]);
         }
         while(j <= high){
-            temp.push_back(nums[j]);
-            j++;
+            temp.push_back(nums[j++]);
         }
 
         for(int i = 0; i < temp.size(); i++){
@@ -41,18 +38,19 @@ private:
         }
     }
     int mergeSort(vector<int>& nums, int low, int high){
+        int cnt = 0;
         if(low >= high){
-            return 0;
+            return cnt;
         }
 
-        int count = 0;
-
         int mid = low + (high - low)/2;
-        count += mergeSort(nums, low, mid);
-        count += mergeSort(nums, mid+1, high);
-        count += countEl(nums, low, mid, high);
+
+        cnt += mergeSort(nums, low, mid);
+        cnt += mergeSort(nums, mid+1, high);
+        cnt += countPairs(nums, low, mid, high);
         merge(nums, low, mid, high);
-        return count;
+
+        return cnt;
     }
 public:
     int reversePairs(vector<int>& nums) {
@@ -60,6 +58,3 @@ public:
         return mergeSort(nums, 0, n-1);
     }
 };
-
-// idea is to divide into subproblems
-// observations are, the order of elements doesnt matter for the 2 parts of the array, if i divide that array into 2 parts, as if both parts are sorted, we can compare them, as its relative to the next elements not their order so merge sort is usefull
