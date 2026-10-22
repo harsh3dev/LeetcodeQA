@@ -58,3 +58,5 @@ public:
         return mergeSort(nums, 0, n-1);
     }
 };
+
+// here main intuituin is that, curr element depends on next elem, so if a,b,c,x,y,z are there where a,b,c is sorted in increasing and x,y,z is sorted in inc, then we can compare abc with xyz, without checking all pairs since if a can make pair with x and y, so b and c also can
